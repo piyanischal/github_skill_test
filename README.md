@@ -2,6 +2,7 @@
 ## github_skill_test
 
 A repo used during the skill test on the Github workflow.
+This line is meant for test purpose.
 
 During this skill test, a student will have to:
 
